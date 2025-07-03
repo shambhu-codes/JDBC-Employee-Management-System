@@ -1,6 +1,6 @@
 # JDBC-Employee-Management-System
 A Java console application using JDBC for managing employee records in a MySQL database. Includes features like create, insert, update, view, delete, and drop operations on an employee table.
-# JDBC Employee Management System 🗃
+# JDBC Employee Management System 
 A Java console-based application that performs CRUD operations (Create, Read, Update, Delete) on an `employee` table using JDBC with a MySQL database.
 
 ## Features
@@ -49,6 +49,7 @@ Choose an Option (1-7):
 
 ## Table Structure
 employee
+
 |____empid(primary key and auto_increment)
 
 |____empname
