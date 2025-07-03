@@ -32,16 +32,25 @@ Database Connection Created!
 * * * DATABASE MANAGEMENT MENU * * *
 
 1.Create Table
+
 2.Insert Data into Table
+
 3.Update Data in Table
+
 4.View Data from Table
+
 5.Delete Data from Table
+
 6.Drop Table
+
 7.Exit
+
 Choose an Option (1-7):
 
 ## Table Structure
 employee
 |____empid(primary key and auto_increment)
+
 |____empname
+
 |____salary
